@@ -1,0 +1,13 @@
+{
+  "name": "mykora-funnel",
+  "version": "1.0.0",
+  "description": "MYKORA — Система роста",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["mykora", "funnel", "growth"],
+  "author": "",
+  "license": "MIT"
+}
